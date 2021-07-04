@@ -1,0 +1,19 @@
+{
+  "name": "major",
+  "version": "1.0.0",
+  "description": "BalaklavaBay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubynstein/Major.git"
+  },
+  "author": "kolt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubynstein/Major/issues"
+  },
+  "homepage": "https://github.com/Rubynstein/Major#readme"
+}
